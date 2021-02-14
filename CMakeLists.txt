@@ -5,7 +5,7 @@ set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
 include(external/external.cmake)
 
-set(XPDF_DIRECTORY "xpdf-4.02")
+set(XPDF_DIRECTORY "xpdf-4.03")
 
 # Disable fontconfig and paper library 
 set(NO_FONTCONFIG ON)
